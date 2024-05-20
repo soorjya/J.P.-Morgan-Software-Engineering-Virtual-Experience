@@ -28,4 +28,4 @@ This repository contains all the submitted patch files of the various tasks assi
 #### My Certificate of Completion
 
 
-<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_wWnS5MXik3f2iRyQA_1716178277355_completion_certificate.pdf"><p align= "center"><img src="https://github.com/soorjya/JP-Morgan-Virtual-Internship-2022/blob/master/Certificate.png"></p></a>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_wWnS5MXik3f2iRyQA_1716178277355_completion_certificate.pdf"><p align= "center"><img src="https://github.com/soorjya/J.P.-Morgan-Software-Engineering-Virtual-Experience/blob/main/Certificate.png"></p></a>
